@@ -1,0 +1,21 @@
+.navbar{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 4%;
+    background-color: teal;
+    color: whitesmoke;
+}
+.navLink{
+    font-size: 23px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.logBtn{
+    height: 30px;
+    padding: 10px;
+    border-radius: 1px;
+}
